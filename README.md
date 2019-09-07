@@ -1,3 +1,5 @@
+I am a complete novice when it comes to understanding computers and code. I want to improve my skill set so I can communicate better with colleagues and friends. My passions include chemistry - organic R&D -, climbing, investing in friendships, and inspiring children to pursue challenges in the outdoors and in science.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
